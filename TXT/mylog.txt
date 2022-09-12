@@ -12,7 +12,7 @@ ZCZC W01 150 L02 ZOOM meetings related
 ZCZC W01 30 L01 SCELE/Discord related
 ZCZC W01 15 L06 References/Books/Documents/Browsing/GSGS related
 ZCZC W01 10 L03 GitHub and git related
-ZCZC W01 10 L05 Quiz
+ZCZC W01 50 L05 Quiz & Studying
 ZCZC W01 150 L11 Assignment #01
 ZCZC W01 15 L32 YouTube: OS related topics
 ZCZC W01 15 L41 TXT/mylog.txt related.
