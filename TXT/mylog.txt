@@ -16,5 +16,3 @@ ZCZC W01 50 L05 Quiz & Studying
 ZCZC W01 150 L11 Assignment #01
 ZCZC W01 15 L32 YouTube: OS related topics
 ZCZC W01 15 L41 TXT/mylog.txt related.
-ZCZC W01 60 L62 Install/Reinstall/Restore/Backup Virtual Debian Guest
-ZCZC W01 20 L61 Install/Reinstall/Restore/Backup Virtual Box
