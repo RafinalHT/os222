@@ -12,6 +12,11 @@ permalink: LINKS/
 <hr>
 
 # LINKS
-
+WEEK 01
 1. [Linux Command Cheat Sheet](https://www.guru99.com/linux-commands-cheat-sheet.html)<br>
 The cheat sheet for Linux! If you run into any error, this can help you resolve your problem.
+
+WEEK 02 
+1. [Git Command Cheat Sheet](https://www.atlassian.com/git/tutorials/atlassian-git-cheatsheet)<br>
+The cheat sheet for git command! very brief and useful
+2. 
