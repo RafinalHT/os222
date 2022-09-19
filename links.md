@@ -20,4 +20,4 @@ WEEK 02
 1. [Git Command Cheat Sheet](https://www.atlassian.com/git/tutorials/atlassian-git-cheatsheet)<br>
 The cheat sheet for git command! very brief and useful
 2. [Basic Vi Commands](https://docs.oracle.com/cd/E19683-01/806-7612/editorvi-43/index.html)<br>
-Useful for text editing in linux!
+Useful for modifying text in linux!
