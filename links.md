@@ -21,3 +21,9 @@ WEEK 02
 The cheat sheet for git command! very brief and useful
 2. [Basic Vi Commands](https://docs.oracle.com/cd/E19683-01/806-7612/editorvi-43/index.html)<br>
 Useful for modifying text in linux!
+
+WEEK 03
+1. [Bash Command Cheat Sheet](https://devhints.io/bash)<br>
+Cheat Sheet for bash scripting!
+2. [Introduction to Debian](https://www.debian.org/intro/about)<br>
+Things you need to know to start your journey on linux!
