@@ -1,7 +1,12 @@
 #!/bin/bash
 # Copyright (C) 2020-2022 Cicak Bin Kadal
+<<<<<<< HEAD
 # This free script is distributed in the hope that it will be 
 # useful, but WITHOUT ANY WARRANTY; without even the implied 
+=======
+# This free script is distributed in the hope that it will be
+# useful, but WITHOUT ANY WARRANTY; without even the implied
+>>>>>>> 4364623b5ae2291a55404a2aa546c4a450eec215
 # warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
 
 # REV02: Wed 14 Sep 2022 08:00
@@ -43,7 +48,11 @@ fi
 
 if [ $DEFAULT ] ; then
   [[ $(wget $WEEKURL -O- 2>/dev/null) ]] || nolink $WEEKURL
+<<<<<<< HEAD
   intARR=($(wget -q -O - $WEEKURL | awk '/\| Week / { 
+=======
+  intARR=($(wget -q -O - $WEEKURL | awk '/\| Week / {
+>>>>>>> 4364623b5ae2291a55404a2aa546c4a450eec215
     cmd = "date -d " $2 " +%s"
     cmd | getline mydate
     close(cmd)
@@ -65,7 +74,11 @@ WEEK=$(printf "W%2.2d\n" $WEEK)
 # Is this the correct WEEK?
 read -r -p "Is this WEEK $WEEK ? [y/N] " response
 case "$response" in
+<<<<<<< HEAD
     [yY][eE][sS]|[yY]) 
+=======
+    [yY][eE][sS]|[yY])
+>>>>>>> 4364623b5ae2291a55404a2aa546c4a450eec215
         ;;
     *)
         echo "It is not Week $WEEK!"
@@ -119,5 +132,8 @@ echo "==== ==== ==== ==== ==== ==== ==== ==== ==== ==== ==== ===="
 echo ""
 
 exit 0
+<<<<<<< HEAD
 
 
+=======
+>>>>>>> 4364623b5ae2291a55404a2aa546c4a450eec215
