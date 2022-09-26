@@ -26,4 +26,4 @@ WEEK 03
 1. [Bash Command Cheat Sheet](https://devhints.io/bash)<br>
 Cheat Sheet for bash scripting!
 2. [Introduction to Debian](https://www.debian.org/intro/about)<br>
-Things you need to know to start your journey on linux!
+Things you need to know to start your journey on linux.
