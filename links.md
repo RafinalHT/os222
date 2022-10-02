@@ -27,3 +27,9 @@ WEEK 03
 Cheat Sheet for bash scripting!
 2. [Introduction to Debian](https://www.debian.org/intro/about)<br>
 Things you need to know to start your journey on linux.
+
+WEEK 04
+1. [Learn C in 100 seconds](https://www.youtube.com/watch?v=U3aXWizDbQ4)<br>
+Learn the fundamental of the C programming language here!
+2. [File System Concept in Operating System](https://www.youtube.com/watch?v=mzUyMy7Ihk0)<br>
+Learn the fundamental concept of file system in 3 minutes!
