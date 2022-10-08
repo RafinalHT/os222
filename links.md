@@ -33,3 +33,9 @@ WEEK 04
 Learn the fundamental of the C programming language here!
 2. [File System Concept in Operating System](https://www.youtube.com/watch?v=mzUyMy7Ihk0)<br>
 Learn the fundamental concept of file system in 3 minutes!
+
+WEEK 05
+1. [Learn C basic syntax](https://www.tutorialspoint.com/cprogramming/c_basic_syntax.htm)<br>
+Learn the basic syntax of the C programming language here!
+2. [How to compile your C file using Makefile](https://www.cs.colby.edu/maxwell/courses/tutorials/maketutor/)<br>
+A tutorial of compiling C programming file using makefile!
