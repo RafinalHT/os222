@@ -39,3 +39,11 @@ WEEK 05
 Learn the basic syntax of the C programming language here!
 2. [How to compile your C file using Makefile](https://www.cs.colby.edu/maxwell/courses/tutorials/maketutor/)<br>
 A tutorial of compiling C programming file using makefile!
+
+WEEK 06
+1. [Fork() in C](https://www.geeksforgeeks.org/fork-system-call/)<br>
+Explanation of fork() in C programming language
+
+WEEK 07
+1. [POSIX Threads Synchronization in C](https://www.softprayog.in/programming/posix-threads-synchronization-in-c)<br>
+Explanation of threads synchronization in C programming language
