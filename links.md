@@ -47,3 +47,7 @@ Explanation of fork() in C programming language
 WEEK 07
 1. [POSIX Threads Synchronization in C](https://www.softprayog.in/programming/posix-threads-synchronization-in-c)<br>
 Explanation of threads synchronization in C programming language
+
+WEEK 08
+1. [Linux From Scracth Ch 1-5](https://www.linuxfromscratch.org/lfs/view/11.2/)<br>
+Step-by-step explanation of linux from scratch 
